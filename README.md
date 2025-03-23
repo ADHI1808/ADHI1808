@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adhithyan</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-- 🌱 I’m currently learning **Kotlin**
-
 - 💬 Ask me about **Flutter,Firebase,AndroidStudio,IoT**
 
 - 📫 How to reach me **s.adhithyan2004@gmail.com**
